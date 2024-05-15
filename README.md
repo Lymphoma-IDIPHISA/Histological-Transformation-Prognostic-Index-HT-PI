@@ -8,8 +8,8 @@ We used the Cox proportional hazards (PH) model for the univariate and multivari
 The probability of HT at 2 and 5 years for an individual patient can be calculated using the following
 equations, derived from the Cox proportional hazards model:
 
-(HT at 2 years) = 1 − 0.9954 exp (Prognostic Index)
-(HT at 5 years) = 1 − 0.9858 exp (Prognostic Index)
+(HT at 2 years) = 1 − 0.9954 exp (Prognostic Index)\
+(HT at 5 years) = 1 − 0.9858 exp (Prognostic Index)\
 
 where Prognostic Index = 
 1.608352 * FLIPI (high-risk) +\
@@ -19,7 +19,7 @@ where Prognostic Index =
 2.070181 * *HIST1H1E* (mutated)
 
 where Prognostic Index = 
-1.639193 * FLIPI (high-risk) + 
-1.383305 * KMT2D (not mutated) + 
-1.615207 * TNFRSF14 (not mutated) + 
-2.102908 * HIST1H1E (mutated).
+1.639193 * FLIPI (high-risk) +\
+1.383305 * KMT2D (not mutated) +\ 
+1.615207 * TNFRSF14 (not mutated) +\ 
+2.102908 * HIST1H1E (mutated)
