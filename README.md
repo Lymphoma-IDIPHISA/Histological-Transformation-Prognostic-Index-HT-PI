@@ -12,14 +12,7 @@ equations, derived from the Cox proportional hazards model:
 (HT at 5 years) = 1 − 0.9858 exp (Prognostic Index)\
 
 where Prognostic Index = 
-1.608352 * FLIPI (high-risk) +\
-1.301285 * *KMT2D* (not mutated) +\
-1.546078 * *TNFRSF14* (not mutated) +\
-0.4126905 * *B2M* (mutated) +\
-2.070181 * *HIST1H1E* (mutated)
-
-where Prognostic Index = 
 1.639193 * FLIPI (high-risk) +\
-1.383305 * KMT2D (not mutated) +\ 
-1.615207 * TNFRSF14 (not mutated) +\ 
-2.102908 * HIST1H1E (mutated)
+1.383305 * *KMT2D* (not mutated) +\
+1.615207 * *TNFRSF14* (not mutated) +\
+2.102908 * *HIST1H1E* (mutated)
