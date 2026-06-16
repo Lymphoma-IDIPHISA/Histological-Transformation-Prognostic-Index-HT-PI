@@ -17,7 +17,7 @@ where Prognostic Index =\
 1.615207 * *TNFRSF14* (not mutated) +\
 2.102908 * *HIST1H1E* (mutated)
 
-© IDIPHISA, (2025), All rights reserved
+© IDIPHISA, (2024), All rights reserved
 
 # References
 
