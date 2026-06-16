@@ -19,6 +19,6 @@ where Prognostic Index =\
 
 © IDIPHISA, (2024), All rights reserved
 
-# References
+## References
 
 Fernández-Miranda I. et al. Generation and External Validation of a Histologic Transformation Risk Model for Patients with Follicular Lymphoma. Mod Pathol. 2024;37:100516.
