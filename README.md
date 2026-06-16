@@ -17,6 +17,6 @@ where Prognostic Index =\
 1.615207 * *TNFRSF14* (not mutated) +\
 2.102908 * *HIST1H1E* (mutated)
 
-# REFERENCES
+# References
 
 Fernández-Miranda I. et al. Generation and External Validation of a Histologic Transformation Risk Model for Patients with Follicular Lymphoma. Mod Pathol. 2024;37:100516.
